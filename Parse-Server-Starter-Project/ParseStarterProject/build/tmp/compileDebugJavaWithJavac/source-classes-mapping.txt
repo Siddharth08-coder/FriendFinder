@@ -1,0 +1,30 @@
+com/parse/starter/StarterApplication.java
+ com.parse.starter.StarterApplication
+com/parse/starter/MainActivity.java
+ com.parse.starter.MainActivity
+ com.parse.starter.MainActivity$1
+ com.parse.starter.MainActivity$2
+ com.parse.starter.MainActivity$3
+ com.parse.starter.MainActivity$4
+ com.parse.starter.MainActivity$5
+ com.parse.starter.MainActivity$6
+com/parse/starter/SplashScreenActivity.java
+ com.parse.starter.SplashScreenActivity
+ com.parse.starter.SplashScreenActivity$1
+com/parse/starter/UpdateProfileActivity.java
+ com.parse.starter.UpdateProfileActivity
+ com.parse.starter.UpdateProfileActivity$1
+ com.parse.starter.UpdateProfileActivity$2
+com/parse/starter/BuildConfig.java
+ com.parse.starter.BuildConfig
+com/parse/starter/QuestionsAskingActivity.java
+ com.parse.starter.QuestionsAskingActivity
+ com.parse.starter.QuestionsAskingActivity$1
+com/parse/starter/UserListActivity.java
+ com.parse.starter.UserListActivity
+ com.parse.starter.UserListActivity$1
+ com.parse.starter.UserListActivity$2
+com/parse/starter/UserFeedActivity.java
+ com.parse.starter.UserFeedActivity
+ com.parse.starter.UserFeedActivity$1
+ com.parse.starter.UserFeedActivity$1$1
